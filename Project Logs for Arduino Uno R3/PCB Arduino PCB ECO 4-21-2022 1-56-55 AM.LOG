@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=16U2_16MHZ_XTAL_1 Pin=y1-1
+Change Net Color : Old Net Color=Fuchsia New Net Color=Default
+Change Net Color : Old Net Color=RGB(144, 145, 0) New Net Color=Default
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=Blue New Net Color=Default

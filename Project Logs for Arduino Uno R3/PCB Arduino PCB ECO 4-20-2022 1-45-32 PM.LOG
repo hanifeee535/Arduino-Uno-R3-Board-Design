@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=328P_16MHZ_XTAL_1 Pin=y2-1
+Change Class Name : Old Net Name=Schematic Sheet Arduino New Net Name=Schematic Sheet Arduino 
+Added Room: Name=Schematic Sheet Arduino 
